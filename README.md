@@ -6,6 +6,8 @@ Here, at the beginning of your programmer’s path, you will need a console bot 
 **Result:**
 As you move through the project, you’ll install Java on your machine and learn to work in a professional development environment. You’ll get to know the basic syntax of Java and write a simple program using variables, conditions, loops, and methods.
 
+Result: https://imgur.com/GUnruey
+
 # Work on project. Stage 1/4: Hello! What’s your name?
 
 Description
