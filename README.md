@@ -9,8 +9,6 @@ As you move through the project, you’ll install Java on your machine and learn
 Result: https://imgur.com/GUnruey
 
 # Work on project. Stage 1/4: Hello! What’s your name?
-
-Description
 Digital personal assistants help people to drive cars, plan their day, buy something online. In a sense, they are simplified versions of artificial intelligence with whom you can talk.
 
 In this project, you will develop step by step a simple bot which will help you to study programming.
@@ -30,8 +28,6 @@ You can change the text if you need but print exactly two lines.
 Next, we will use Aid and 2018 as your assistant's name and its birth year, but you can change it if you want.
 
 # What you'll do in this stage 2/4: How old are you?
-
-Description
 At this stage, you will introduce yourself to the bot. He will greet you by your name and then try to guess your age using arithmetic operations.
 
 Your program must print the following lines:
@@ -64,8 +60,6 @@ Your age is 22; that's a good time to start programming!
 Use the provided template to simplify your work. You can change the text, but not the number of printed lines.
 
 # What you'll do in this stage 3/4: Let’s count!
-
-Description
 At this stage, you will program the bot to count from 0 to any positive number you entered.
 
 Here is an example of a dialogue with the new version of the bot. Input lines are started with ">" symbol.
@@ -93,8 +87,6 @@ Note, each number starts with a new line, and after a number, the bot should pri
 Use the provided template to simplify your work. You can change the text if you want, but be especially careful with counting numbers.
 
 # Work on project. Stage 4/4: The student and the teacher
-
-Description
 At this stage, you will improve your simple bot so that it can give you a test and check your answers. The test should be about programming. Your bot has to continue to ask the test until you answer correctly.
 
 Your bot can ask anything you want, but there are two rules for your output:
